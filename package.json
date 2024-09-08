@@ -1,0 +1,31 @@
+{
+  "name": "fullapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.0.1",
+    "@mui/lab": "^6.0.0-beta.8",
+    "@mui/material": "^6.0.1",
+    "@mui/x-data-grid": "^7.15.0",
+    "@mui/x-data-grid-pro": "^7.15.0",
+    "classnames": "^2.5.1",
+    "next": "14.2.7",
+    "react": "^18",
+    "react-dom": "^18",
+    "sass": "^1.77.8",
+    "stylis": "^4.3.4",
+    "stylis-plugin-rtl": "^2.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.7"
+  }
+}
